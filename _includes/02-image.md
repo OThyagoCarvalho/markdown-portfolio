@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Github Education Banner](https://pbs.twimg.com/media/EOawPZAXsAMFdug.jpg)
