@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+In order to acomplish my goals I'll have to be: **disciplined**; **hard working**; and **resilient**. 
