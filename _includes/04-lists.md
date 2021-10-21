@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+###### These are my goals
+
+* Understand Repositories 📚
+* Understand Issues ⁉️
+* Understand Pull Requests ⤴️
+* Understand Projects 🌼
+* Understand Actions 🏃
